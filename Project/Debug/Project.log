@@ -1,4 +1,1 @@
-﻿  Main.cpp
-C:\Users\obradshaw\Documents\GAD173-LevelEditor\Project\Main.cpp(41,25): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\obradshaw\Documents\GAD173-LevelEditor\Project\Main.cpp(41,22): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
-  Project.vcxproj -> C:\Users\obradshaw\Documents\GAD173-LevelEditor\Project\Debug\Project.exe
+﻿  Project.vcxproj -> C:\Users\octav\Documents\GAD173-LevelEditor\Project\Debug\Project.exe
