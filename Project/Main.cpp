@@ -727,7 +727,7 @@ int main()
 
 		//Save and Load functionality
 		tools.saveButton.checkClick(std::bind(save, tile), worldPos);
-		tools.loadButton.checkClick(std::bind(save, tile), worldPos);
+		tools.loadButton.checkClick(std::bind(load, tile), worldPos);
 
 		//Loo[ the toolbar tiles
 		for (int i = 0; i < 9; i++)

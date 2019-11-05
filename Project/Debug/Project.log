@@ -1,1 +1,12 @@
-﻿  Project.vcxproj -> C:\Users\octav\Documents\GAD173-LevelEditor\Project\Debug\Project.exe
+﻿  Main.cpp
+C:\Users\octav\Documents\GAD173-LevelEditor\Project\Main.cpp(87,25): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\octav\Documents\GAD173-LevelEditor\Project\Main.cpp(87,22): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\octav\Documents\GAD173-LevelEditor\Project\Main.cpp(164,25): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\octav\Documents\GAD173-LevelEditor\Project\Main.cpp(164,22): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\octav\Documents\GAD173-LevelEditor\Project\Main.cpp(469,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\octav\Documents\GAD173-LevelEditor\Project\Main.cpp(501,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\octav\Documents\GAD173-LevelEditor\Project\Main.cpp(520,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\octav\Documents\GAD173-LevelEditor\Project\Main.cpp(539,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\octav\Documents\GAD173-LevelEditor\Project\Main.cpp(558,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\octav\Documents\GAD173-LevelEditor\Project\Main.cpp(577,20): warning C4018:  '<': signed/unsigned mismatch
+  Project.vcxproj -> C:\Users\octav\Documents\GAD173-LevelEditor\Project\Debug\Project.exe
